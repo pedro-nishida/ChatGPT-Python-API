@@ -1,6 +1,3 @@
-Claro, aqui está a formatação markdown (`.md`) do arquivo `README.md` em português brasileiro:
-
-```markdown
 # ChatGPT 3.5 Turbo - Assistente de Categorização de Produtos
 
 Este script Python interage com a API da OpenAI, especificamente com o modelo GPT-3.5-turbo, para gerar respostas com base nas entradas do usuário.
