@@ -2,7 +2,7 @@ ChatGPT API Python
 
 Bem-vindo ao repositório dos meus mini projetos ChatGPT API Python! Aqui está os porgramas que eu treinei para o meu aprendizado, seguindo o curso de Inteligência Artificial da Alura!
 
-# ChatGPT 3.5 Turbo - Assistente de Categorização de Produtos
+# ChatGPT 3.5 Turbo
 
 Este script Python interage com a API da OpenAI, especificamente com o modelo GPT-3.5-turbo, para gerar respostas com base nas entradas do usuário.
 
