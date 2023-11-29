@@ -1,6 +1,6 @@
 ChatGPT API Python
 
-Bem-vindo ao repositório do projeto ChatGPT API Python! Aqui está os porgramas que eu treinei para o meu aprendizado, seguindo o curso de Inteligência Artificial da Alura!
+Bem-vindo ao repositório dos meus mini projetos ChatGPT API Python! Aqui está os porgramas que eu treinei para o meu aprendizado, seguindo o curso de Inteligência Artificial da Alura!
 
 # ChatGPT 3.5 Turbo - Assistente de Categorização de Produtos
 
